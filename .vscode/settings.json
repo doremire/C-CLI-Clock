@@ -1,9 +1,0 @@
-{
-    "makefile.launchConfigurations": [
-        {
-            "cwd": "/home/doremire/dev/cli-clock",
-            "binaryPath": "/home/doremire/dev/cli-clock/cli-clock",
-            "binaryArgs": []
-        }
-    ]
-}
